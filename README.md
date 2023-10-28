@@ -1,3 +1,3 @@
 # Firstpro
-this is my first git reposetory.
-auther- Shashwat trivedi
+this is my first git reposetory. <br>
+<b>auther- Shashwat trivedi</b>
